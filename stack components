@@ -1,2 +1,3 @@
 https://swiperjs.com/               -swiper
-https://www.emailjs.com/            -send email using forms
+https://www.emailjs.com/            -send email using forms  (npm i emailjs-com --save
+)
